@@ -1,0 +1,1 @@
+First static HTML page
